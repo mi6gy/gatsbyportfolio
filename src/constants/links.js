@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+//array of links
 const data = [
   {
     id: 1,
